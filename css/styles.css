@@ -1,0 +1,12 @@
+img {
+  width: 400px;
+}
+body {
+  background-color: rgb(201, 174, 226);
+  color: white;
+}
+
+ul img {
+  width: 100px;
+  height: 100px;
+}
